@@ -1,0 +1,3 @@
+[submodule "public/prettify"]
+	path = public/prettify
+	url = git@192.168.12.22:sample-apps/prettify.git
